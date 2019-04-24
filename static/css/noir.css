@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-image: url(http://www.starkovtattoo.spb.ru/images/600/DSC100646236.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .error {
+    color: red;
+  }
+
+  h1 {
+    color: black;
+    margin-bottom: 20px;
+    padding-left: 7px;
+  }  
+
+  #form-box {
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    background-color: #fff;
+    text-align: center, justify;
+    width: 300px;
+    height:400px;
+    margin: 100px;
+    padding: 20px 30px 20px 45px;
+  }
+
+  #new
+  {
+    font-family:'Miltonian Tattoo', cursive;
+    color: purple;
+  }
+
