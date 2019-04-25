@@ -14,8 +14,10 @@ body {
 
   h1 {
     color: black;
+    text-align: center;
     margin-bottom: 20px;
     padding-left: 7px;
+    font-family:'Miltonian Tattoo', cursive;
   }  
 
   #form-box {
